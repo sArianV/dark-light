@@ -1,0 +1,6 @@
+.toggleColorButton {
+    position:absolute;
+    top: 3em;
+    left: 95vw;
+    z-index: 999;
+}

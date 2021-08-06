@@ -1,0 +1,16 @@
+.myBody{
+    overflow-y:scroll;
+    height:100%;
+    width:100%;
+    position: relative;
+    display: flex;
+    *justify-content:space-evenly;
+    flex-wrap: wrap;
+    scrollbar-width: none;
+}
+.myBody::-webkit-scrollbar {
+    display: none;
+  }
+.myBody {
+    -ms-overflow-style: none;
+}
