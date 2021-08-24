@@ -1,5 +1,5 @@
 {
-  "name": "dark-light",
+  "name": "darkLight",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,7 +10,7 @@
     "@testing-library/react": "^10.2.1",
     "@testing-library/user-event": "^12.0.2",
     "axios": "^0.21.1",
-    "framer-motion": "^4.0.0",
+    "framer-motion": "^4.1.17",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^3.0.0",

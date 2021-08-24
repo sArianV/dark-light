@@ -1,11 +1,8 @@
 .myBody{
     overflow-y:scroll;
-    height:100%;
+    height:100vh;
     width:100%;
-    position: relative;
-    display: flex;
-    *justify-content:space-evenly;
-    flex-wrap: wrap;
+    
     scrollbar-width: none;
 }
 .myBody::-webkit-scrollbar {

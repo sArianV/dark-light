@@ -1,10 +1,12 @@
 import React from 'react'
 import styles from "./Body.module.css"
+import { motion } from "framer-motion"
+
 function Body(props) {
     return (
-        <div className={styles.myBody}>
+        <motion.div className={styles.myBody}>
            {props.children}
-        </div>
+        </motion.div>
     )
 }
 
